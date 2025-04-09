@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: unj025jew-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/unj025jew-python-gitops
